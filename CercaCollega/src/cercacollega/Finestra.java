@@ -58,7 +58,7 @@ import java.awt.event.KeyEvent;
 public class Finestra {
 	
 	JFrame frmCercacompagno;
-
+//commento prova
 	//public riempi b=new riempi(this);
 	
 	
